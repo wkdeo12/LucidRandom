@@ -7,13 +7,15 @@ Enhanced random number generator for Unity
 
 [日本語版README](README_JP.md)
 
+[English README](README.md)
+
 ## Overview
-Lucid Random extends Unity's Random class, adding more features such as reproducible random numbers and weighted list.
+Lucid Random은 재현 가능한 난수 및 가중치 목록과 같은 더 많은 기능을 추가하여 Unity의 Random 클래스를 확장합니다.
 
 ### Features
-* LucidRandom class based on UnityEngine.Random and adding many functions
-* Struct that handles minimum and maximum values
-* WeightedList class to handle weighted elements
+* UnityEngine.Random 기반의 LucidRandom 클래스 및 많은 기능 추가
+* 최소값과 최대값을 처리하는 구조체
+* 가중 요소를 처리하는 WeightedList 클래스
 
 ## Setup
 
